@@ -1,0 +1,7 @@
+{
+  "genesis_time": "2023-02-19T00:00:00.000000000Z",
+  "chain_id": "the-blockchain-irisini-ledger",
+  "balances": {
+    "dalwin": 1000000
+  }
+}
